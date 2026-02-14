@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapassos13&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapassos13&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapassos13&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapassos13&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </div>
 
 ###
@@ -28,18 +28,19 @@
 ###
 
 <div align="left">
-  <a href="mailto:passoslarissa903@gmail.com">
+  <a href="mailto:passoslarissa903@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/larissa-passos-5404a0393/" target="_blank">
+  <a href="https://www.linkedin.com/in/larissa-passos-5404a0393/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 
-  <a href="https://instagram.com/lariissapssos" target="_blank">
+  <a href="https://instagram.com/lariissapssos" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
+
 
 
 ###
