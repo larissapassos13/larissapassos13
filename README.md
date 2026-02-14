@@ -2,13 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapassos13&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapassos13&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</div>
-
-###
-
 <img align="right" height="150" src="https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif"  />
 
 ###
