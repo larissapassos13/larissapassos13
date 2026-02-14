@@ -2,6 +2,8 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif"/>
 
+<br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img width="12"/>
