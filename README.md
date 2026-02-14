@@ -1,8 +1,6 @@
 <h2 align="center">👩‍💻 Estudante de Sistemas de Informação</h2>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-
-### 🛠 Tecnologias
+<img align="right" height="150" src="https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
@@ -17,8 +15,6 @@
 </div>
 
 <br>
-
-### 📫 Contato
 
 <div align="left">
   <a href="https://instagram.com/lariissapssos" style="text-decoration:none;">
@@ -35,8 +31,6 @@
 </div>
 
 <br>
-
-### 👾 Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissapassos13/larissapassos13/output/pacman-contribution-graph-dark.svg">
