@@ -1,4 +1,4 @@
-<h2 align="center">👩‍💻 Estudante de Sistemas de Informação</h2>
+<h3 align="center">Sistemas de Informação • Lógica • Python • Dados</h3>
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif"/>
 
