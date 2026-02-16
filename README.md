@@ -29,5 +29,5 @@ Atualmente estou focada em aprender Python e fortalecer meus fundamentos, desenv
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Future+Software+Developer;Always+Learning+New+Things;Building+My+Career+in+Tech" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=120&section=footer"/>
 </p>
