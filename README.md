@@ -1,45 +1,29 @@
-<h3 align="center">Sistemas de Informação • Lógica • Python • Dados</h3>
+<div align="center">
+  
+<a href="www.linkedin.com/in/larissa-passos" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/3c/06/3c/3c063cb020c08d8d4530aa06ab8e310a.gif"/>
+<br><br>
+
+<h1>Larissa Passos</h1>
+<h3>Sistemas de Informação</h3>
 
 <br>
-<br> 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30"/>
+<p>
+Estudante de Sistemas de Informação, construindo base sólida em lógica, algoritmos e desenvolvimento de software.
+Buscando evolução constante na área de Tecnologia da Informação.
+</p>
+
+<br>
+
+<h3>⚙️ Languages and Tools</h3>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+
 </div>
-
-<br>
-
-<div align="left">
-  <a href="https://instagram.com/lariissapssos" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:passoslarissa903@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/larissa-passos-5404a0393/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-
-<br>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/larissapassos13/larissapassos13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/larissapassos13/larissapassos13/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/larissapassos13/larissapassos13/output/pacman-contribution-graph.svg">
-</picture>
-
-<br clear="both">
