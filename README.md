@@ -15,7 +15,7 @@
 
 Sou estudante de Sistemas de Informação e estou construindo minha base em lógica de programação e desenvolvimento de software. Gosto de entender como as coisas funcionam de verdade e estou sempre buscando evoluir um pouco a cada dia.
 
-Atualmente estou focada em aprender Python e fortalecer meus fundamentos, desenvolvendo pequenos projetos para colocar o conhecimento em prática. Meu objetivo é crescer na área de tecnologia com consistência, disciplina e curiosidade.
+Atualmente estou focada em aprender Python e Java e fortalecer meus fundamentos, desenvolvendo pequenos projetos para colocar o conhecimento em prática. Meu objetivo é crescer na área de tecnologia com consistência, disciplina e curiosidade.
 
 ### ⚙️ Languages and Tools
 <div>
